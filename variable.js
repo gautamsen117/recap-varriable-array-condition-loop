@@ -1,7 +1,7 @@
 /* 
-...............
-VARIABLE
-..............
+.......................
+         VARIABLE
+........................
 1. What is JavaScript?
 2. How does JavaScript work?
 3. What is variable?
@@ -63,12 +63,13 @@ var number = '13';
 console.log(number);
 var numberIntiger = parseInt(number);
 console.log(numberIntiger);
-// parseFloat():-
 var num1 = 0.1;
 var num2 = 0.2;
 var sumNumber = num1 + num2;
 console.log(sumNumber);
+//toFixed()
 sumNumber = sumNumber.toFixed(1);
 console.log(sumNumber);
+// parseFloat():-
 var sumTwoDecimal = parseFloat(sumNumber);
 console.log(sumTwoDecimal);
