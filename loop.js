@@ -16,6 +16,11 @@ Loop
 */
 
 //1. Display "Ajke amar mon valo nei" for 39 times:- 
+var todayMindSisuation = 1;
+while(todayMindSisuation < 40){
+    console.log("Ajke amar mon valo nei");
+    todayMindSisuation++;
+}
 //2. Display numbers between 58 to 98:-
 //3. Show all even numbers from 412 to 456:-
 //4. Show all odd numbers 581 to 623:-
